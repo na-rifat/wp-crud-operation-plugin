@@ -1,0 +1,50 @@
+.cmp-form .input-group > *{
+    display: inline-block;
+    width: 100%;
+}
+.cmp-form input[type=date], .cmp-form input[type=file]{
+    color: #666;
+    padding: .75em;
+    height: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #eaeaea;
+    border-radius: 2px;
+    background: #fafafa;
+    box-shadow: none;
+    box-sizing: border-box;
+    transition: all .2s linear;
+}
+.cmp-form .input-group{
+    margin-bottom: 10px;
+}
+.cmp-form .input-group input[type=submit]{
+    padding: 20px 0;
+}
+
+.cmp-success{
+    padding: 15px 20px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-left: 3px solid seagreen ;
+    margin: 20px 0;
+}
+.cmp-failed{
+    padding: 15px 20px;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-left: 3px solid red ;
+    margin: 20px 0;
+}
+.action-btns > *{
+    display: inline-block;
+    cursor: pointer;
+    padding: 0 2px;
+}
+.action-btns > *:hover{
+    color: seagreen;
+}
+.action-btns {
+    width: 100px;
+    text-align: center;
+}

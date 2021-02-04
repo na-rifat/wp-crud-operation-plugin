@@ -1,0 +1,22 @@
+{
+    "name": "rafalotech/cmp",
+    "description": "Wordpress data entry plugin",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Rafalo tech",
+            "email": "nuraalamrifat@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "cmp\\": "./includes"
+        },
+        "files": [
+            "./includes/functions.php"
+        ]
+    }
+}

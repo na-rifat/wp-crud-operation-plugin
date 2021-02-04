@@ -1,0 +1,67 @@
+code
+vendor_provider
+contract_subscription_entity_used
+product_type
+product_description
+contract_value
+contract
+contract_currency
+contract_id
+contract_signed_date
+by_user
+no_of_users
+start_date
+end_date
+coordinator_person_in_change
+vendor_person_in_change
+vendor_email
+vendor_contact
+payment_entity_used
+payment_amount
+payment_currency
+monthly_quarterly_semannual_annual
+invoice_id
+invoice_date
+approval_document
+upload_invoice
+subscription_module
+fullfillment_name
+fullfillment_email
+location_country_user
+amount_per_user
+department_user
+
+
+
+"Code",
+"Vendor/Service Provider",
+"Contract Subscription entity used",
+"Product type",
+"Product description",
+"Contract Value",
+"contract",
+"Contract Currency",
+"Contract ID",
+"Contract Signed Date",
+"By user/EWL",
+"No of users",
+"Start Date",
+"End Date",
+"Coordinator Person-in-charge",
+"Vendor Person-in-charge",
+"Vendor Email",
+"Vendor Contact",
+"Payment entity used",
+"Payment amount",
+"Payment currency",
+"Monthly/Quarterly/semi-annual/Annual",
+"Invoice ID",
+"Invoice Date",
+"approval document",
+"upload invoice",
+"Subscription module",
+"Fulfillment Name",
+"Fulfillment Email",
+"Location Country User",
+"Amount per user",
+"Department User",
